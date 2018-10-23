@@ -60,3 +60,5 @@ def generate_img(img, finalitem, artist, track):
 	im.save("out.jpg", "JPEG")
 	return ("out.jpg")
 
+def check():
+	return 0
